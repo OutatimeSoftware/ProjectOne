@@ -28,4 +28,8 @@
 
 ### Journey
 
+#### Fase 1: Learning
+
+#### Fase 2: Developing
+
 ## Team
