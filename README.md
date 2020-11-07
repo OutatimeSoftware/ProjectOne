@@ -18,6 +18,14 @@
 
 ## Description
 
+### Purpose
+
+### System
+
+### Technologies
+
 ## Documentation
+
+### Journey
 
 ## Team
