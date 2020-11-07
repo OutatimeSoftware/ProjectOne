@@ -1,6 +1,6 @@
 <div align="center">
     <h1>ProjectOne</h1>
-    <b>Our repository for the encora project</b>
+    <b>✏️ Our repository for the encora project</b>
 </div>
 
 ## Index
@@ -15,3 +15,9 @@
             -   [Fase 1: Learning](#)
             -   [Fase 2: Developing](#)
     -   [Team](#team)
+
+## Description
+
+## Documentation
+
+## Team
