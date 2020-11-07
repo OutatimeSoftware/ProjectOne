@@ -28,6 +28,8 @@
 
 ### Journey
 
+We've made a journey for you to understand how we learn and how we develop
+
 #### Fase 1: Learning
 
 #### Fase 2: Developing
