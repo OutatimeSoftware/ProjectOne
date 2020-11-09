@@ -3,6 +3,10 @@
     <b>✏️ Our repository for the encora project</b>
 </div>
 
+<p align="center">
+  <img src="https://github.com/MiguelRAvila/Bento/blob/master/assets/preview.png">
+</p>
+
 ## Index
 
 -   [ProjectOne](#)
