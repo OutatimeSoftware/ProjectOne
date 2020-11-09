@@ -7,7 +7,8 @@
   <img src="https://github.com/OutatimeSoftware/ProjectOne/blob/main/Img/header.png">
 </p>
 
-[![Lang Status](https://img.shields.io/badge/-Español-1ca0f1?style=flat-square&color=028090&logo=discover&logoColor=white&link=http://miguelravila.me/)](http://miguelravila.me/)
+
+[![Lang Status](https://img.shields.io/badge/-miguelravila.me-1ca0f1?style=flat-square&color=028090&logo=discover&logoColor=white&link=http://miguelravila.me/)](http://miguelravila.me/)
 [![Build Status](https://img.shields.io/github/stars/curlpipe/ox.svg?style=for-the-badge)](https://github.com/curlpipe/ox)
 [![License](https://img.shields.io/github/license/curlpipe/ox.svg?style=for-the-badge)](https://github.com/curlpipe/ox)
 
