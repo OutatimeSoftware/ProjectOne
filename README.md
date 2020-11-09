@@ -21,8 +21,8 @@
         -   [Technologies](#)
     -   [Documentation](#documentation)
         -   [Journey](#Journey)
-            -   [Fase 1: Learning](#)
-            -   [Fase 2: Developing](#)
+            -   [Phase 1: Learning](#)
+            -   [Phase 2: Developing](#)
     -   [Team](#team)
 
 ## Description
@@ -39,8 +39,8 @@
 
 We've made a journey for you to understand how we learn and how we develop
 
-#### Fase 1: Learning
+#### Phase 1: Learning
 
-#### Fase 2: Developing
+#### Phase 2: Developing
 
 ## Team
