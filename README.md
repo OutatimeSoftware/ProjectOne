@@ -13,7 +13,7 @@
 
 [![CODE Status](https://img.shields.io/github/languages/top/OutatimeSoftware/ProjectOne?style=flat-square)](#)
 
-[![CODE Status](https://img.shields.io/badge/Leelo%20en-Espa%C3%B1ol-yellow)](#)
+[![CODE Status](https://img.shields.io/badge/Leelo%20en-Espa%C3%B1ol-yellow?style=flat-square)](https://github.com/OutatimeSoftware/ProjectOne/blob/main/README_esp.md)
 
 
 
