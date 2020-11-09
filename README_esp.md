@@ -8,9 +8,7 @@
 </p>
 
 
-[![Lang Status](https://img.shields.io/badge/-miguelravila.me-1ca0f1?style=flat-square&color=028090&logo=discover&logoColor=white&link=http://miguelravila.me/)](http://miguelravila.me/)
-[![Build Status](https://img.shields.io/github/stars/curlpipe/ox.svg?style=for-the-badge)](https://github.com/curlpipe/ox)
-[![License](https://img.shields.io/github/license/curlpipe/ox.svg?style=for-the-badge)](https://github.com/curlpipe/ox)
+[![LANG esp](https://img.shields.io/badge/Read%20on-English-informational?style=flat-square)](https://github.com/OutatimeSoftware/ProjectOne/blob/main/README_esp.md) [![LICENSE Status](https://img.shields.io/github/license/OutatimeSoftware/ProjectOne?style=flat-square)](https://github.com/OutatimeSoftware/ProjectOne/blob/main/LICENSE) [![COMMIT Status](https://img.shields.io/github/last-commit/OutatimeSoftware/ProjectOne?label=Last%20commit&style=flat-square)](https://github.com/OutatimeSoftware/ProjectOne/graphs/contributors) [![CODE Status](https://img.shields.io/github/languages/top/OutatimeSoftware/ProjectOne?style=flat-square)](#)
 
 ## Index
 
