@@ -9,6 +9,15 @@
 
 [![LICENSE Status](https://img.shields.io/github/license/OutatimeSoftware/ProjectOne?style=flat-square)](https://github.com/OutatimeSoftware/ProjectOne/blob/main/LICENSE)
 
+[![COMMIT Status](https://img.shields.io/github/last-commit/OutatimeSoftware/ProjectOne?label=Last%20commit&style=flat-square)](https://github.com/OutatimeSoftware/ProjectOne/graphs/contributors)
+
+[![CODE Status](https://img.shields.io/github/languages/top/OutatimeSoftware/ProjectOne?style=flat-square)](#)
+
+[![CODE Status](https://img.shields.io/badge/Leelo%20en-Espa%C3%B1ol-yellow)](#)
+
+
+
+
 
 ## Index
 
