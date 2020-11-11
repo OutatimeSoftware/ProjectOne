@@ -14,3 +14,7 @@ Uno de los principales puntos de ventaja (tanto competitivamente como internamen
 **Las nuevas herramientas** necesarias en un equipo orientado a devops son muy importantes y una de ellas es *Jenkins* y una herramienta que controle el codigo fuente (como *Github*) lo que permitirá manejar, documentar todos los cambios al códgio fuente. A si mismo se necesitarán herramientas para hacer deployment.
 
 En conclusión, DevOps es una **filosofía** de desarrollo que nos permite inovar de forma más rápida, y muchisimo mejor de cara a las necesidades 
+
+De primera vista una de las impresiones que me dio Maven es que era parecido a **npm**, sin embargo, luego de usarlo durante algunos días y de probar varios proyectos con el me he dado cuenta de que es muchisimo más que un administrador de dependencias. Maven es una herramienta que sirve en general para el **manejo de nuestros proyectos en Java** permitiendonos administrar dependencias, compilar y empaquetar. 
+
+**Maven** resuelve muchisimos problemas en cuanto a empaquetado se refiere y con unas simples lineas en la terminal nos genera una estructura para nuestro proyecto. La documentación más importante que he encontrado:
