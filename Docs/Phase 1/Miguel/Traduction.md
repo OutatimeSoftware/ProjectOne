@@ -28,3 +28,6 @@ Este comando lo que hará es permitirnos elegir de manera interactiva algunas es
 
 
 Finalmente otro de los parametros importantes que debemos considerar es el **-DarchetypeArtifactId=maven-archetype-quickstart** el cual indicará que tipo de aplicación generamos. Por ejemplo, si quisieramos generar una estructura para una *WebApp* nosotros usariamos: 
+
+
+Una de las ventajas que nos da Maven es la posibilidad de **compilar** (De una forma muy especifica) y de **empaquetar** nuestros proyectos. Para poder compilar nuestro proyecto usamos el comando:
