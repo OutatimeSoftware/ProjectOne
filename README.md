@@ -37,7 +37,14 @@
 
 ### Journey
 
-We've made a journey for you to understand how we learn and how we develop
+We've made a journal for you to understand how we *learn* and how we *develop*. All of this documentation will be filled with the **notes** of every member of the team about the theme they **boarded**:
+
+| Member  | Topic            |
+|---------|------------------|
+| Mario   | ⌨️ Java Programming |
+| Miguel  | 💡 DevOps           |
+| Jorge   | 🛰️ API              |
+| Roberto | 💽 Data Base        |
 
 #### Phase 1: Learning
 
@@ -45,5 +52,3 @@ We've made a journey for you to understand how we learn and how we develop
 
 ## Team
 Miguel, Roberto, Mario y Jorge
-
-[![](https://sourcerer.io/fame/OutatimeSoftware/OutatimeSoftware/ProjectOne/images/0)](https://sourcerer.io/fame/OutatimeSoftware/OutatimeSoftware/ProjectOne/links/0)[![](https://sourcerer.io/fame/OutatimeSoftware/OutatimeSoftware/ProjectOne/images/1)](https://sourcerer.io/fame/OutatimeSoftware/OutatimeSoftware/ProjectOne/links/1)[![](https://sourcerer.io/fame/OutatimeSoftware/OutatimeSoftware/ProjectOne/images/2)](https://sourcerer.io/fame/OutatimeSoftware/OutatimeSoftware/ProjectOne/links/2)[![](https://sourcerer.io/fame/OutatimeSoftware/OutatimeSoftware/ProjectOne/images/3)](https://sourcerer.io/fame/OutatimeSoftware/OutatimeSoftware/ProjectOne/links/3)[![](https://sourcerer.io/fame/OutatimeSoftware/OutatimeSoftware/ProjectOne/images/4)](https://sourcerer.io/fame/OutatimeSoftware/OutatimeSoftware/ProjectOne/links/4)[![](https://sourcerer.io/fame/OutatimeSoftware/OutatimeSoftware/ProjectOne/images/5)](https://sourcerer.io/fame/OutatimeSoftware/OutatimeSoftware/ProjectOne/links/5)
