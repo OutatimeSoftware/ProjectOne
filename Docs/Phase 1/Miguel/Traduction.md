@@ -18,3 +18,13 @@ En conclusión, DevOps es una **filosofía** de desarrollo que nos permite inova
 De primera vista una de las impresiones que me dio Maven es que era parecido a **npm**, sin embargo, luego de usarlo durante algunos días y de probar varios proyectos con el me he dado cuenta de que es muchisimo más que un administrador de dependencias. Maven es una herramienta que sirve en general para el **manejo de nuestros proyectos en Java** permitiendonos administrar dependencias, compilar y empaquetar. 
 
 **Maven** resuelve muchisimos problemas en cuanto a empaquetado se refiere y con unas simples lineas en la terminal nos genera una estructura para nuestro proyecto. La documentación más importante que he encontrado:
+
+El comando principal que usa Maven es **mvn** el cual es la base de todos los demás. Uno de los comandos más importantes de Maven es sin duda el de **creación de proyectos**. 
+
+
+En donde **archetype:generate** nos indica que estamos generando un proyecto nuevo. **-DgroupId=com.mycompany.app** menciona la estructura que tendrá tu proyecto (Y por ende como se diferencia de los demás) mientras que **-DartifactId=my-app** genera el nombre de nuestro compilado. 
+
+Este comando lo que hará es permitirnos elegir de manera interactiva algunas especificacions de nuestro proyecto, tales como la versión, el autor, etc. Agregrando el siguiente parametro al comando, podemos desactivar estas solicitudes y las asumirá por defecto:
+
+
+Finalmente otro de los parametros importantes que debemos considerar es el **-DarchetypeArtifactId=maven-archetype-quickstart** el cual indicará que tipo de aplicación generamos. Por ejemplo, si quisieramos generar una estructura para una *WebApp* nosotros usariamos: 
