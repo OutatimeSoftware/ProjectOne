@@ -1,6 +1,6 @@
 <div align="center">
     <h1>DevOps</h1>
-    <b>✏️ Our repository for the encora project</b>
+    <b>💡 My devops personal route </b>
 </div>
 
 <p align="center">
