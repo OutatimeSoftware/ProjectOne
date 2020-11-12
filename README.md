@@ -48,7 +48,20 @@ We've made a journal for you to understand how we *learn* and how we *develop*. 
 
 #### Phase 1: Learning
 
+In this phase, everyone in the team is writing **notes** in order to help everyone reading this project and want to do something similar. All notes will have an specific order and every member will have a folder of notes where they can describe (on their way) how they **learned** and what **path** they follow:
+
+-   [Phase 1](https://github.com/OutatimeSoftware/ProjectOne/tree/main/Docs/Phase%201)
+    -   [Mario](https://github.com/OutatimeSoftware/ProjectOne/tree/main/Docs/Phase%201/Mario)
+    -   [Miguel](https://github.com/OutatimeSoftware/ProjectOne/tree/main/Docs/Phase%201/Miguel)
+    -   [Jorge](https://github.com/OutatimeSoftware/ProjectOne/tree/main/Docs/Phase%201/Jorge)
+    -   [Roberto](https://github.com/OutatimeSoftware/ProjectOne/tree/main/Docs/Phase%201/Roberto)
+
+
 #### Phase 2: Developing
+
+
+
+### Internal Organization
 
 ## Team
 Miguel, Roberto, Mario y Jorge
