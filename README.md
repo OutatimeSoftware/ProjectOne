@@ -58,9 +58,7 @@ In this phase, everyone in the team is writing **notes** in order to help everyo
 
 
 #### Phase 2: Developing
-
-
-
+z
 ### Internal Organization
 
 ## Team
