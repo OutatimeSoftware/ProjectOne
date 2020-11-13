@@ -43,7 +43,7 @@ We've made a journal for you to understand how we *learn* and how we *develop*. 
 |---------|------------------|
 | [Mario](https://github.com/MarioJChanZurita)   | ⌨️ Java Programming |
 | [Miguel](https://github.com/MiguelRAvila)  | 💡 DevOps           |
-| [Jorge](https://github.com/imreyesjorge)   | 🛰️ API              |
+| [Jorge](https://github.com/imreyesjorge)   | 🔑 API              |
 | [Roberto](https://github.com/Apoquinto) | 💽 Data Base        |
 
 #### Phase 1: Learning
