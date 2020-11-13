@@ -25,19 +25,19 @@ On **Phase 1** our project only have tech requirements and the way we organice o
 
 Every section has tech requirements to fill:
 
-- ⌨️ Java Programming
+- **⌨️ Java Programming**
   - Java
   - Solid
-- 💡 DevOps
+- **💡 DevOps**
   - Concepts
   - Compiling and Packaging
   - Testing
   - CI / CD tools
   - Deployment
-- 🔑 API
+- **🔑 API**
   - Java Programming
   - Spring Boot 
-- 💽 Data Base
+- **💽 Data Base**
   - Concepts
   - postgreSQL
   - JDBC
