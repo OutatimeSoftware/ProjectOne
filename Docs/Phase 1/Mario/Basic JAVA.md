@@ -4,6 +4,10 @@
 > Getting started with programming
 > Printing, reading input, variables, calculating with numbers, conditional statements and conditional operation, loops, arrays, lists, read text files, static 
 
+<p align="center">
+  <img src="https://github.com/OutatimeSoftware/ProjectOne/blob/main/Img/j_03.png">
+</p>
+
 Writing the command `System.out.println("...") can be taxing. In NetBeans, try to write sout on blank line (within main) and press tab (the key left to q). What happens? This shortcut may save you a lot of time in the future.
 
 The tool can be imported for use in a program by adding the command import java.util.Scanner; before the beginning of the main program's frame (public class ...). The tool itself is created with Scanner scanner = new Scanner(System.in);.
