@@ -7,6 +7,7 @@
     -   [Description](#description)
     -   [Objective](#documentation)
     -   [Requirements](#requirements)
+        -   [Tech Requirements](#tech-requirements)
     -   [Use Cases](#use-cases)
     -   [Use Cases Diagram](#use-cases-diagram)
     -   [Development Process](#development-process)
@@ -17,6 +18,29 @@
 ### Objective
 
 ### Requirements
+
+#### Tech Requirements
+
+On **Phase 1** our project only have tech requirements and the way we organice our time to learn how to fill them is ours. We've considered to divide all topics in 4 major sections: *Java Programming*, *DevOps*, *API* and *Data Base*.
+
+Every section has tech requirements to fill:
+
+- Java Programming
+  - Java
+  - Solid
+- DevOps
+  - Concepts
+  - Compiling and Packaging
+  - Testing
+  - CI / CD tools
+  - Deployment
+- API
+  - Java Programming
+  - Spring Boot 
+- Data Base
+  - Concepts
+  - postgreSQL
+  - JDBC
 
 ### Use Cases
 
