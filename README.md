@@ -58,8 +58,12 @@ In this phase, everyone in the team is writing **notes** in order to help everyo
 
 
 #### Phase 2: Developing
-z
-### Internal Organization
+
+In this phase, the team will be develoṕing the project and applying everything we learned on Phase 1.
+
+### Project Organization
+
+You can read everything about the project *description* *requirements*, *use cases*, *development process* and *metrics* here: [Internal Organization](Docs/InternalOrg.md)
 
 ## Team
 Miguel, Roberto, Mario y Jorge
