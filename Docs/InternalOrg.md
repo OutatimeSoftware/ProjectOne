@@ -17,12 +17,12 @@
 
 Everyone in the team has a certain area focus:
 
-| Member                                       | Topic              |
-| -------------------------------------------- | ------------------ |
-| [Mario](https://github.com/MarioJChanZurita) | ⌨️ Java Programming |
-| [Miguel](https://github.com/MiguelRAvila)    | 💡 DevOps           |
-| [Jorge](https://github.com/imreyesjorge)     | 🛰️ API              |
-| [Roberto](https://github.com/Apoquinto)      | 💽 Data Base        |
+| Member                                       | Topic              | Progress                                                                                   |
+| -------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------ |
+| [Mario](https://github.com/MarioJChanZurita) | ⌨️ Java Programming |                                                                                            |
+| [Miguel](https://github.com/MiguelRAvila)    | 💡 DevOps           | [Pogress Board](https://github.com/OutatimeSoftware/ProjectOne/projects/1?fullscreen=true) |
+| [Jorge](https://github.com/imreyesjorge)     | 🛰️ API              |                                                                                            |
+| [Roberto](https://github.com/Apoquinto)      | 💽 Data Base        | [Pogress Board](https://github.com/OutatimeSoftware/ProjectOne/projects/3?fullscreen=true) |
 
 And the way we show our progress is on our journals and notes:
 
