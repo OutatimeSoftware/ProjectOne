@@ -7,13 +7,36 @@
   <img src="https://github.com/OutatimeSoftware/ProjectOne/blob/main/Img/devops_0.png">
 </p>
 
-### The Devops Route
+### The DevOps Route
+
+> Devops is not a goal, but a never-ending process of continual improvement 
+
+Here on my **DevOps** notes you'll be able to read all my study process and off course, all my notes (or important annotations) I made during all phase 1 of the project. We'll be focusing on a lot of topics and technologies that we'll use on our project, just as tests, devops concepts and CI/CD tools.
+
+You can checkout my **progress** board here: [Pogress Board](https://github.com/OutatimeSoftware/ProjectOne/projects/1?fullscreen=true)
 
 ### Learning Path
 
+1. DevOps Concepts
+   1. What is DevOps?
+   2. CI/CD
+   3. Technologies for DevOps
+2. Maven
+   1. What is Maven?
+   2. Commands on Maven
+   3. Compiling and Packaging
+   4. The POM
+3. Tests
+   1. JUnit
+4. Jenkins
+5. Integration
+6. Deployment
+
+> All of this while learning Java in the Java Programming course of Helsinki University.
+
 ### Journal
 
-You can checkout my **progress** board here: [Pogress Board](https://github.com/OutatimeSoftware/ProjectOne/projects/1?fullscreen=true)
+---
 
 | 📅 Date | 📝 Note                                                                                                                                 | 📖 Description                                                                                                                                    | 📍 Theme |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
