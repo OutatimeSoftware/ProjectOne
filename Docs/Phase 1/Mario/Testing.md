@@ -1,4 +1,4 @@
-# Title
+# Testing
 
 > Nov 3, 2020
 > Passing test input to Scanner, unit testing, JUnit, Test-Driven development
@@ -12,13 +12,15 @@ String input = "one\n" + "two\n"  +
 
 Scanner reader = new Scanner(input);
 
-Unit testing refers to the testing of individual components in the source code, such as classes and their provided methods. The writing of tests reveals whether each class and method observes or deviates from the guideline of each method and class having a single, clear responsibility. The more responsibility the method has, the more complex the test. If a large application is written in a single method, writing tests for it becomes very challenging, if not impossible. Similarly, if the application is broken into clear classes and methods, then writing tests is straightforward.
+**Unit testing**
+Refers to the testing of individual components in the source code, such as classes and their provided methods. The writing of tests reveals whether each class and method observes or deviates from the guideline of each method and class having a single, clear responsibility. The more responsibility the method has, the more complex the test. If a large application is written in a single method, writing tests for it becomes very challenging, if not impossible. Similarly, if the application is broken into clear classes and methods, then writing tests is straightforward.
 
 <p align="center">
   <img src="https://github.com/OutatimeSoftware/ProjectOne/blob/main/Img/testDrivenDevelopment.png">
 </p>
 
-Test-Driven development 
+**Test-Driven development**
+
 Test-driven software development consists of five steps that are repeated until the functionality of the program is complete.
 
 1-Write a test. The programmer decides which program functionality to test and writes a test for it.
