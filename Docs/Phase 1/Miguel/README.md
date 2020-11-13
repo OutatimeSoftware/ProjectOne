@@ -7,6 +7,8 @@
   <img src="https://github.com/OutatimeSoftware/ProjectOne/blob/main/Img/devops_0.png">
 </p>
 
+You can checkout my **progress** board here: [Pogress Board](https://github.com/OutatimeSoftware/ProjectOne/projects/1?fullscreen=true)
+
 | 📅 Date   | 📝 Note                                                                                                                                   | 📍 Theme  |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | Oct 24 | [1. DevOps](https://github.com/OutatimeSoftware/ProjectOne/blob/main/Docs/Phase%201/Miguel/1.%20DevOps.md)                             | DevOps |
