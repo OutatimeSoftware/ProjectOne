@@ -25,19 +25,19 @@ On **Phase 1** our project only have tech requirements and the way we organice o
 
 Every section has tech requirements to fill:
 
-- Java Programming
+- ⌨️ Java Programming
   - Java
   - Solid
-- DevOps
+- 💡 DevOps
   - Concepts
   - Compiling and Packaging
   - Testing
   - CI / CD tools
   - Deployment
-- API
+- 🔑 API
   - Java Programming
   - Spring Boot 
-- Data Base
+- 💽 Data Base
   - Concepts
   - postgreSQL
   - JDBC
@@ -58,23 +58,6 @@ Everyone in the team has a certain area focus:
 | [Miguel](https://github.com/MiguelRAvila)    | 💡 DevOps           | [Pogress Board](https://github.com/OutatimeSoftware/ProjectOne/projects/1?fullscreen=true) |
 | [Jorge](https://github.com/imreyesjorge)     | 🔑 API              |                                                                                            |
 | [Roberto](https://github.com/Apoquinto)      | 💽 Data Base        | [Pogress Board](https://github.com/OutatimeSoftware/ProjectOne/projects/3?fullscreen=true) |
-
-
-We also have the specific **path** that everyone in the team is following:
-
-- Mario
-  - Java Programming
-  - Solid
-- Miguel
-  - Devops concepts
-  - Maven
-  - Unit Tests
-  - Jenkins
-- Jorge
-  - Java Programming
-  - Springboot
-- Roberto
-  - Data Base
 
 
 And the way we show our **progress** is on our journals and notes:
