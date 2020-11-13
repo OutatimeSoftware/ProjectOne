@@ -3,6 +3,10 @@
 > Nov 4, 2020
 > Sorting and binary search 
 
+<p align="center">
+  <img src="https://github.com/OutatimeSoftware/ProjectOne/blob/main/Img/binarySearch.jpg">
+</p>
+
 The concept of efficiency is often associated with algorithms.
 
 Java offers a significant amount of ready to use sorting algorithms. Arrays can be sorted (into their natural order) using the class method sort of the Arrays-class. Lists can be sorted (into their natural order) using the class method sort of the Collections class.
