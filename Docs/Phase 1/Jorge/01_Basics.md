@@ -2,33 +2,33 @@
 
 ![](../../../Img/j_03.png)
 
-## ¿Qué es?
-> Java es un lenguaje de programación y una plataforma informática comercializada por primera vez en 1995 por Sun Microsystems. Hay muchas aplicaciones y sitios web que no funcionarán a menos que tenga Java instalado y cada día se crean más. Java es rápido, seguro y fiable. Desde portátiles hasta centros de datos, desde consolas para juegos hasta súper computadoras, desde teléfonos móviles hasta Internet, Java está en todas partes.
+## What is it?
+> Java is a programming language and computing platform first released in 1995 by Sun Microsystems. There are many applications and websites that will not work unless you have Java installed and more are created every day. Java is fast, safe, and reliable. From laptops to data centers, from game consoles to super computers, from mobile phones to the Internet, Java is everywhere.
 
-## Variables primitivas en Java
-Cuando usamos Java, tenemos a nuestra disposición primitivos en los cuales se puede basar nuestro programa, los cuales son:
-+ **Integer:** Nos sirve para representar valores enteros
-+ **Double:** Nos sirve para representar valores de decimales
-+ **Boolean:** Nos sirve para representar banderas de estado *true* o *falsa*
-+ **Char:** Nos sirve para representar un solo caracter
+## Primitives in Java
+When we use Java, we have at our disposal primitives on which our program can be based, which are:
++ **Integer:** It helps us to represent integer values
++ **Double:** It helps us to represent decimal values
++ **Boolean:** It helps us to represent state flags (*true* or *false*)
++ **Char:** It helps us to represent a single character
 
 ![](../../../Img/j_02.png)
 
-> **String** no es considerada una variable primitiva, ya que es un array de Chars.
+> **String** isn't considered as a primitve, because it's an array of chars.
 
-## Sentencias Condicionales
+## Conditional Statements
 
-En Java, como en casi cualquier otro lenguaje de progamación, existen condicionales para bifurcar el flujo del programa.
+In Java, as in almost any other programming language, there are conditionals to fork the flow of the program.
 
-Para poder bifurcar el flujo del programa podemos utilizar la sentencia **if**, con su respectivo **else**.
+In order to bifurcate the flow of the program we can use the **if** statement, with its respective **else**.
 
-Esto nos permite ejecutar un bloque de código sólo si la condición se cumple (if), y en caso contrario ejecutar el siguiente bloque de código (else), o bien seguir con el flujo normal del código.
+This allows us to execute a block of code only if the condition is met (if), and otherwise execute the next block of code (else), or to continue with the normal flow of the code.
 
 ![](../../../Img/j_05.png)
 
-## Operaciones
+## Operations
 
-Las operaciones en Java, son las mismas que en otros lenguajes, ya que podemos sumar **(+)**, restar **(-)**, multiplicar **(*)**, dividir **(/)** y conseguir el módulo **(%)**.
+The operations in Java, are the same as other languajes. We can add **(+)**, subtract **(-)**, divide **(/)**, multiply **(*)** and get the modulo **(%)**.
 
 ![](../../../Img/j_06.png)
 
