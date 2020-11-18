@@ -1,4 +1,4 @@
-# Java
+# Basics
 
 ![](../../../Img/j_03.png)
 

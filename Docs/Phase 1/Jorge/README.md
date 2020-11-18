@@ -1,13 +1,15 @@
-# Ruta de Aprendizaje
+# Learning Path
 
 ![](../../../Img/j_01.jpeg)
 
-Estas son mis notas de aprendizaje sobre el lenguaje Java y el framework Spring.
+These are my learning notes about Java and Spring framework.
 
-### Objetivo
+### Goals
 
-Desarrollar una API usando Java y Springboot
+Develop an API using Springboot
 
-## Secciones
-+ [1. Java](./01_Java.md)
-+ [2. Spring Boot](./02_Springboot.md)
+## Sections
++ [Basics](./01_Basics.md)
++ [Loops](./02_Loops.md)
++ [Methods](./03_Methods.md)
++ [Spring Boot](./01_Springboot.md)
