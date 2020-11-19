@@ -8,6 +8,6 @@
 
 ## Spring Core Technologies
 
-Entre las tecnologías que incluye spring se encuentra la **Inversion of Control (IoC)** la cual usa el método de **Dependecy Injection (DI)**, el cual es un proceso en el que los objetos definen sus dependencias mediante argumentos de constructor, argumentos a un método factory o con propiedades que se le colocan después de generar la instancia del objeto.
+Among the technologies that spring includes is the **Inversion of Control (IoC)** which uses the **Dependecy Injection (DI)** method, which is a process in which objects define their dependencies through constructor arguments, arguments to a factory method or with properties that are placed after generating the object instance.
 
 [Regresar 🏠](./README.md)
