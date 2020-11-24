@@ -21,7 +21,7 @@
 
 #### Tech Requirements
 
-On **Phase 1** our project only have tech requirements and the way we organice our time to learn how to fill them is ours. We've considered to divide all topics in 4 major sections: *Java Programming*, *DevOps*, *API* and *Data Base*.
+On **Phase 1** our project only have tech requirements and the way we organize our time to learn how to fill them is ours. We've considered to divide all topics in 4 major sections: *Java Programming*, *DevOps*, *API* and *Data Base*.
 
 Every section has tech requirements to fill:
 
@@ -67,4 +67,3 @@ And the way we show our **progress** is on our journals and notes:
     -   [Miguel](https://github.com/OutatimeSoftware/ProjectOne/tree/main/Docs/Phase%201/Miguel)
     -   [Jorge](https://github.com/OutatimeSoftware/ProjectOne/tree/main/Docs/Phase%201/Jorge)
     -   [Roberto](https://github.com/OutatimeSoftware/ProjectOne/tree/main/Docs/Phase%201/Roberto)
-
