@@ -15,9 +15,13 @@ Once imported, you can create a list using `ArrayList<type> list = new ArrayList
 
 ![](../../../Img/j_12.png)
 
-You can add some value to the list by using `<listName>.add(<value>);`, and you can get the value from the list by using `<listName>.get(<id>);`
+You can add some value to the list by using `<listName>.add(<value>);`, and you can get the value from the list by using `<listName>.get(<id>);`, and finally we can get the size of the list by using `<listName>.size();`.
 
 
 ![](../../../Img/j_13.png)
 
 ### Iterating over a list
+You can use the traditional **for loop** to iterate the ArrayList. Just remember that a list index start at 0 and that you can get the size of the list by using `<listName>.size()`.
+
+![](../../../Img/j_14.png)
+
