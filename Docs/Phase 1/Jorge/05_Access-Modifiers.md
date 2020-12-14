@@ -9,3 +9,11 @@ Whenever we want to use a access modifier in a class we have:
 - **default:** this class will be accessible only for other classes in the same package
 
 > By default, not using any keyword uses `default`
+
+#### Methods and attributes
+Otherwise, if we want to use the access modifiers for a method or attribute, we have a few more options:
+
+- **public:** this method/attribute will be accessible for any other class
+- **default:** this method/attribute will be accessible only for other classes in the same package
+- **protected:** this is the same as default, plus that any subclass have the access to any method or attribute
+- **private:** this method/attribute will only be accessible for the class where it was declared
