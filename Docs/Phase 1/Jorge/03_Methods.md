@@ -11,3 +11,5 @@ The method itself can receive parameters (variables):
 A method can return a value, you just need to change the **void** part of the **public static void myMethod()** to the type of value your method is going to return. For example:
 
 ![](../../../Img/j_11.png)
+
+[Regresar 🏠](./README.md)
