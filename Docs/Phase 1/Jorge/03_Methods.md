@@ -12,4 +12,4 @@ A method can return a value, you just need to change the **void** part of the **
 
 ![](../../../Img/j_11.png)
 
-[Regresar 🏠](./README.md)
+[Go Back 🏠](./README.md)

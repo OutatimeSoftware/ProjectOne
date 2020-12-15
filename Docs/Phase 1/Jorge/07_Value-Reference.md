@@ -1,3 +1,3 @@
 # Value and Reference
 
-[Regresar 🏠](./README.md)
+[Go Back 🏠](./README.md)

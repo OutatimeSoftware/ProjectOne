@@ -32,4 +32,4 @@ The operations in Java, are the same as other languajes. We can add **(+)**, sub
 
 ![](../../../Img/j_06.png)
 
-[Regresar 🏠](./README.md)
+[Go Back 🏠](./README.md)

@@ -22,4 +22,4 @@ Otherwise, if we want to use the access modifiers for a method or attribute, we 
 
 The `static` keyword makes the method/attribute to be part of the class itself and not instanciable. The *static methods/attributes* are "shared" among all the instances of the class.
 
-[Regresar 🏠](./README.md)
+[Go Back 🏠](./README.md)

@@ -14,4 +14,4 @@ The **for loop** does what the while loop but in a shorthand way.
 
 ![](../../../Img/j_08.png)
 
-[Regresar 🏠](./README.md)
+[Go Back 🏠](./README.md)
