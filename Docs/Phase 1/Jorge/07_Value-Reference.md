@@ -15,4 +15,9 @@ When we use the reference, we use the memory direction where the variable is sto
 
 In this other example, we create a instance of a Player class, we check the initial level and then pass the reference of the object to a method. We finally check that the level of that instance was altered.
 
+## How to know if it's a reference or value pass
+Well, it's easy to know this, by default if the variable you pass is a primitve (*integer*, *string*, *double*, *boolean*) it will be a value pass.
+
+In other hand it'll be a reference pass.
+
 [Go Back 🏠](./README.md)
