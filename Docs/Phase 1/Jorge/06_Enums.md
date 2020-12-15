@@ -4,3 +4,11 @@ An *Enum* is a data type, it consist of a fixed set of constants. It can be used
 
 > There's a convetion that says we should name constants in `UPPERCASE`.
 
+![](../../../Img/j_15.png)
+
+## Enums constructors
+
+Enums can have a constructor too, it is a little complex to understand how this works but lets analyze the next example:
+
+![](../../../Img/j_16.png)
+
