@@ -12,3 +12,4 @@ Enums can have a constructor too, it is a little complex to understand how this 
 
 ![](../../../Img/j_16.png)
 
+Every time we use the `Rarity` enum with any of the given values, we're also calling the constructor and passing the value between parenthesis as a parameter.
